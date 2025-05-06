@@ -1,3 +1,5 @@
+<div style="font-family: 'Orbitron', sans-serif;">
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=54&duration=1500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+my+dear+friend!;Welcome+my+dear+amigo!)](https://git.io/typing-svg)
@@ -8,6 +10,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2000&pause=99999&color=19FF14&center=true&vCenter=true&width=800&lines=About+me)](https://git.io/typing-svg)
+
 I'm a Computer Science student passionate about **Artificial Intelligence**, **automation**, and creating useful tools that solve real-world problems.  
 I love working with **Java** and **Python**, and I’m currently developing apps using **React**.  
 I have hands-on experience in leading development teams and designing **advanced AI-powered solutions**.  
@@ -83,4 +86,5 @@ I have hands-on experience in leading development teams and designing **advanced
 </div>
 
 ---
+<div style="font-family: 'Orbitron', sans-serif;">
 
