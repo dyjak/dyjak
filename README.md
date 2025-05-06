@@ -3,19 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=46&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+my+dear+friend!)](https://git.io/typing-svg)
 </div>
 
----
+<div align="center">
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=19FF14&center=false&vCenter=true&width=800&lines=About+me)](https://git.io/typing-svg)
 I'm a Computer Science student passionate about **Artificial Intelligence**, **automation**, and creating useful tools that solve real-world problems.  
 I love working with **Java** and **Python**, and I’m currently developing apps using **React**.  
 I have hands-on experience in leading development teams and designing **advanced AI-powered solutions**.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=39FF14&center=false&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Explorer+%7C+Team+Lead)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## Tech Stack
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=1AFF14&center=false&vCenter=true&width=800&lines=Tech+stack)](https://git.io/typing-svg)
+
 
 ### 🧠 AI / Data
 
@@ -38,14 +39,18 @@ I have hands-on experience in leading development teams and designing **advanced
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### 🛢 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-F0758F?style=for-the-badge&logo=mysql)
 ![Postgres](https://img.shields.io/badge/Postgres-A63B57?style=for-the-badge&logo=postgres)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![SQLite](https://img.shields.io/badge/SQLite-03B57?style=for-the-badge&logo=sqlite)
 
 </div>
 
 ---
-# Portfolio
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=3AFF14&center=false&vCenter=true&width=800&lines=Portfolio)](https://git.io/typing-svg)
+
 | 💻 Category         | 🧠 Project                                                                 | ⚙️ Tech Stack                                 | 📄 Description                                                           |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------|
 | **AI**         | [LLAMA_init](https://github.com/dyjak/LLAMA_init)                         | Python+LLaMA+GGUF+CLI                       | Local setup to run LLaMA-based language models locally via gguf          |
@@ -62,17 +67,11 @@ I have hands-on experience in leading development teams and designing **advanced
 | **HTML**  | [CryptoSwap](https://github.com/dyjak/CryptoSwap)                         | HTML+CSS+JavaScript                          | Frontend for interactive crypto currency conversion                      |
 | **Academic**        | [Numerical-Methods](https://github.com/dyjak/Numerical-Methods)           | Python                                           | Numerical methods and algorithm implementations                          |
 
-
-## Languages Breakdown
+---
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyjak&layout=compact&theme=tokyonight)
-
-</div>
-
-
-## Connect
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=7AFF14&center=false&vCenter=true&width=800&lines=Connection)](https://git.io/typing-svg)
 
 <div align="center">
 
