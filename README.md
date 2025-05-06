@@ -86,5 +86,5 @@ I have hands-on experience in leading development teams and designing **advanced
 </div>
 
 ---
-<div style="font-family: 'Orbitron', sans-serif;">
+</div>
 
