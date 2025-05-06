@@ -23,7 +23,7 @@ I have hands-on experience in leading development teams and designing **advanced
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=99999&color=1AFF14&center=true&vCenter=true&width=800&lines=Tech+stack)](https://git.io/typing-svg)
 
-
+![AI](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI_and_Data-000000?style=for-the-badge)
 ![AI](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +31,7 @@ I have hands-on experience in leading development teams and designing **advanced
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-A12991?style=for-the-badge&logo=anthropic&logoColor=white)
 
+![Backend](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,6 +40,7 @@ I have hands-on experience in leading development teams and designing **advanced
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+![Frontend](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -46,6 +48,7 @@ I have hands-on experience in leading development teams and designing **advanced
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
+![Databases](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Databases](https://img.shields.io/badge/Databases-000000?style=for-the-badge)
 ![Databases](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-F0758F?style=for-the-badge&logo=mysql&logoColor=white)
