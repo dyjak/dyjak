@@ -24,27 +24,30 @@ I have hands-on experience in leading development teams and designing **advanced
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=99999&color=1AFF14&center=true&vCenter=true&width=800&lines=Tech+stack)](https://git.io/typing-svg)
 
 
-### 🧠 AI / Data
-
+![AI](https://img.shields.io/badge/AI_and_Data-000000?style=for-the-badge)
+![AI](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-A12991?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### ☕ Backend
+![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge)
+![Backend](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🎨 Frontend
+![Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🛢 Databases
+![Databases](https://img.shields.io/badge/Databases-000000?style=for-the-badge)
+![Databases](https://img.shields.io/badge/-FFFFFF?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-F0758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-A63B57?style=for-the-badge&logo=postgres)
 ![SQLite](https://img.shields.io/badge/SQLite-03B57?style=for-the-badge&logo=sqlite)
