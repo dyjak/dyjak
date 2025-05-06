@@ -1,11 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=46&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+my+dear+friend!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=54&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+my+dear+friend!;Welcome+my+dear+amigo!)](https://git.io/typing-svg)
 </div>
+
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=19FF14&center=false&vCenter=true&width=800&lines=About+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=3000&color=19FF14&center=true&vCenter=true&width=800&lines=About+me)](https://git.io/typing-svg)
 I'm a Computer Science student passionate about **Artificial Intelligence**, **automation**, and creating useful tools that solve real-world problems.  
 I love working with **Java** and **Python**, and I’m currently developing apps using **React**.  
 I have hands-on experience in leading development teams and designing **advanced AI-powered solutions**.  
@@ -15,7 +17,7 @@ I have hands-on experience in leading development teams and designing **advanced
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=1AFF14&center=false&vCenter=true&width=800&lines=Tech+stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=3000&color=1AFF14&center=true&vCenter=true&width=800&lines=Tech+stack)](https://git.io/typing-svg)
 
 
 ### 🧠 AI / Data
@@ -27,19 +29,19 @@ I have hands-on experience in leading development teams and designing **advanced
 
 ### ☕ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### 🛢 Databases
-![MySQL](https://img.shields.io/badge/MySQL-F0758F?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-F0758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-A63B57?style=for-the-badge&logo=postgres)
 ![SQLite](https://img.shields.io/badge/SQLite-03B57?style=for-the-badge&logo=sqlite)
 
@@ -49,7 +51,7 @@ I have hands-on experience in leading development teams and designing **advanced
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=3AFF14&center=false&vCenter=true&width=800&lines=Portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=3000&color=3AFF14&center=true&vCenter=true&width=800&lines=Portfolio)](https://git.io/typing-svg)
 
 | 💻 Category         | 🧠 Project                                                                 | ⚙️ Tech Stack                                 | 📄 Description                                                           |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------|
@@ -71,7 +73,7 @@ I have hands-on experience in leading development teams and designing **advanced
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=3000&color=7AFF14&center=false&vCenter=true&width=800&lines=Connection)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=3000&color=7AFF14&center=true&vCenter=true&width=800&lines=Connection)](https://git.io/typing-svg)
 
 <div align="center">
 
