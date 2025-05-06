@@ -1,4 +1,15 @@
-<div style="font-family: 'Orbitron', sans-serif;">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+  <style>
+    .main-container {
+      font-family: 'Orbitron', sans-serif;
+      background-color: #1a1a1a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+  
+<div class="main-container">
 
 <div align="center">
 
