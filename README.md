@@ -65,7 +65,7 @@ I have hands-on experience in leading development teams and designing **advanced
 
 | 💻 Category         | 🧠 Project                                                                 | ⚙️ Tech Stack                                 | 📄 Description                                                           |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------|
-| **AI**         | [LLAMA_init](https://github.com/dyjak/LLAMA_init)                         | Python+LLaMA+GGUF+CLI                       | Local setup to run LLaMA-based language models locally via gguf          |
+| **AI**         | [LLAMA_init](https://github.com/dyjak/LLAMA_init)                         | Python+LLaMA+GGUFs                       | Local setup to run LLaMA-based language models locally via gguf          |
 | **Fullstack**       | [THE-HUB](https://github.com/dyjak/THE-HUB)                               | FastAPI+React+Next.js+SQLite        | Modular hub for AI tools and local APIs with simple frontend integration |
 |                     | [funeral_home](https://github.com/dyjak/funeral_home)                     | JavaSpringBoot+React+MySQL                               | Management app for funeral services with DB support                      |
 |                     | [RoyalRepast](https://github.com/dyjak/RoyalRepast)                       | Laravel+MySQL                     | Fullstack food ordering system with modern PHP stack                     |
